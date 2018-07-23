@@ -1,0 +1,7 @@
+#un comentario
+#Sun Jul 22 19:03:28 COT 2018
+password=123
+userName=sacris
+dataBaseName=TERMINALMONITOR
+portName=1433
+hostName=CE-PC\\SQLEXPRESS
